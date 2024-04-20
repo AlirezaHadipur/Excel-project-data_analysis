@@ -1,4 +1,4 @@
-# Excel Project Data Analysis 
+# Excel Project 📊
 
 ## Introduction 💡
 Welcome to my Excel data analysis project! This project was created to further my understanding of data analysis techniques and to showcase my skills as a junior data analyst.
@@ -16,7 +16,7 @@ Techniques that I learned are:
 - Conditional Formatting
 - Charts
 
-## Files
+## Files 📂
 This repository includes 3 parts. In each part, there is an Excel file and a report.pptx you can use the report files to better understand the sheets.
 - [Part1_DataCleaning](Part1_CleaningData/)
 - [Part2_PivotTable](Part2_PivotTable/)
@@ -24,4 +24,4 @@ This repository includes 3 parts. In each part, there is an Excel file and a rep
 
 
 ## Conclusion 📙
-In conclusion, this project enhance my Excel skills and provide some valuable insights. It would be beneficial to learn advanced skills in Excel for me as a data analyst.
+In conclusion, this project enhanced my Excel skills and provided valuable insights. It would be beneficial to learn advanced skills in Excel for me as a data analyst.
